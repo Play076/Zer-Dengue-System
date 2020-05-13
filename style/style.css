@@ -1,0 +1,38 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.formslogin
+{
+	padding: 5%;
+}
+
+.formregister
+{
+	padding: 5%;
+}
+
+.navname
+{
+	font-family: sans-serif;
+	font-size: 20px;
+	padding: 20px;
+	color: black;
+	text-decoration: none;
+}
+
+.navname:hover
+{
+	font-family: sans-serif;
+	font-size: 20px;
+	padding: 20px;
+	text-decoration: none;
+}
+
+.intro
+{
+	margin-top: 11%;
+	margin-left: 10%;
+	position: fixed;
+}
